@@ -1,0 +1,10 @@
+D:\C#\TablazatAdatok\TablazatAdatok\bin\Debug\TablazatAdatok.exe.config
+D:\C#\TablazatAdatok\TablazatAdatok\bin\Debug\TablazatAdatok.exe
+D:\C#\TablazatAdatok\TablazatAdatok\bin\Debug\TablazatAdatok.pdb
+D:\C#\TablazatAdatok\TablazatAdatok\obj\Debug\TablazatAdatok.csprojAssemblyReference.cache
+D:\C#\TablazatAdatok\TablazatAdatok\obj\Debug\TablazatAdatok.Form1.resources
+D:\C#\TablazatAdatok\TablazatAdatok\obj\Debug\TablazatAdatok.Properties.Resources.resources
+D:\C#\TablazatAdatok\TablazatAdatok\obj\Debug\TablazatAdatok.csproj.GenerateResource.cache
+D:\C#\TablazatAdatok\TablazatAdatok\obj\Debug\TablazatAdatok.csproj.CoreCompileInputs.cache
+D:\C#\TablazatAdatok\TablazatAdatok\obj\Debug\TablazatAdatok.exe
+D:\C#\TablazatAdatok\TablazatAdatok\obj\Debug\TablazatAdatok.pdb
